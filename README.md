@@ -20,3 +20,5 @@ Deforestation and forest fires have severe environmental and ecological conseque
 - 📈 Dashboard for visual analytics (optional: Streamlit/Flask web app)
 
 ---
+best_fire_detection_model 
+As it is Large file The Link for this is https://drive.google.com/file/d/1L7J928abn-28MFTEIkkLasEdgvSGCZgQ/view?usp=drive_link
